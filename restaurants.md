@@ -1,7 +1,3 @@
-git switch -c feature-restaurants
-ينشئ ملفًا باسم:
-restaurants.md
-ويكتب:
 restaurants.md
 # المطاعم والمقاهي
 ## مطعم النخيل
